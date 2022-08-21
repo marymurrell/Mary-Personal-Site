@@ -93,7 +93,19 @@ hr{
 
 }
 
-.cat{
+.javascript{
+  width: 20%;
+  float: right;
+  padding-left: 30px;
+}
+
+.bootstrap-logo{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.python{
   width: 25%;
   float: right;
   padding-left: 30px;
